@@ -17,8 +17,13 @@ function generateMarkdown(data) {
 ${data.description}
 
 ## Table of Contents
-
 * [Install](#install)
+* [Install](#install)
+* [Install](#install)
+* [Install](#install)
+* [Install](#install)
+* [Install](#install)
+
 
 
 
