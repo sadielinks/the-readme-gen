@@ -14,8 +14,8 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'project',
-        message: 'What is your projects name?',
+        name: 'title',
+        message: 'What is your projects title?',
     },
     {
         type: 'input',
@@ -53,18 +53,25 @@ const questions = [
         message: 'What is your contact email?',
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'licensing',
         message: 'Please provide the licensing used for your project:',
+        choices: ['MIT', 'Apache', 'Mozilla', 'GPL', 'GNU']
     },
 ]
 
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.prompt(questions).then(function (responses) {
+    console.log(responses)
+    })
+}
 
 // Function call to initialize app
 init();
