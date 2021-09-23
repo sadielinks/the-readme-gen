@@ -4,6 +4,9 @@
 // declare variables
 const inquirer = require('inquirer');
 const fs = require('fs')
+const util = require('util')
+const md = require('./utils/generateMarkdown')
+const writeFileAsync = util.promisify(fs.writeFile)
 
 // 1 - ask inquierer
 const questions = [
@@ -62,9 +65,9 @@ const questions = [
 
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    
-}
+// function writeToFile(fileName, data) {
+//     return fs.writeFileSync
+// }
 
 // TODO: Create a function to initialize app
 function init() {
