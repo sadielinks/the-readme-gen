@@ -5,7 +5,7 @@ ___
 
 ## Table of Contents
 
-- [User Story]()
+* [User Story]()
 - [Installation]()
 - [Usage and Technologies Used]()
 - [Screenshots]()
