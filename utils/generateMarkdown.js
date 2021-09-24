@@ -42,6 +42,8 @@ ${backTicks}
 
 ## Testing
 
+${data.test}
+
 ## Contribute
 
 ## Questions
