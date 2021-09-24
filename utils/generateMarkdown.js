@@ -46,7 +46,11 @@ ${data.test}
 
 ## Contribute
 
+${data.contribute}
+
 ## Questions
+
+Do you have any questions or concerns? Please contact me either my GitHub at [https://github.com/${data.username}](https://github.com/${data.username}) or email me at [${data.email}](mailto:${data.email})
 
 ## License
 
