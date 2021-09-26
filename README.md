@@ -74,14 +74,19 @@ The technologies used to create this program were:
 
 ## Screenshots
 ```
-Placeholder display
+Command Line question/answer:
 ```
 ![Screenshot](./assets/images/screenshot.png)
 
 ```
-Second placeholder display
+Finished responses displayed in console:
 ```
 ![Screenshot](./assets/images/screenshot2.png)
+
+```
+Generated README.md preview:
+```
+![Screenshot](./assets/images/screenshot3.png)
 
 <br>
 
