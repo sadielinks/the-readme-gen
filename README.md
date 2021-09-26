@@ -88,6 +88,12 @@ Generated README.md preview:
 ```
 ![Screenshot](./assets/images/screenshot3.png)
 
+```
+
+```
+![GIF](./assets/images/screenshot3.png)
+
+
 <br>
 
 ## Links

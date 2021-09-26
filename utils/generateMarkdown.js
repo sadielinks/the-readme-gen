@@ -114,3 +114,4 @@ ${renderLicenseSection(data.license)}
 }
 
 module.exports = generateMarkdown;
+// thank you for reading thru my code! 
