@@ -61,11 +61,11 @@ ${data.description}
 ${renderLicenseBadge(data.license)}
 
 ## Table of Contents
-* [Install](#install)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Technologies](#technologies)
-* [Testing](#testing)
-* [Contribute](#contribute)
+* [Tests](#tests)
+* [Contributing](#contributing)
 * [Questions](#questions)
 * [License](#license)
 
@@ -86,14 +86,14 @@ ${backTicks}
 
 ${data.technologies} were used to create this project.
 
-## Testing
+## Tests
 
 Users can test this code by: 
 ${backTicks}
 ${data.test}
 ${backTicks}
 
-## Contribute
+## Contributing
 
 Would you like to contribute to the project?
 ${backTicks}
