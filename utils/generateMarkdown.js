@@ -1,7 +1,8 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// all information pertaining to licenses were pulled from https://choosealicense.com/licenses/
+
+// Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  console.log(license);
   if (license === 'MIT') {
     return `![mit](https://img.shields.io/badge/license-MIT-brightgreen)`;
   } else if (license === 'Apache 2.0') {
@@ -17,7 +18,7 @@ function renderLicenseBadge(license) {
   }
 }
 
-// TODO: Create a function that returns the license link
+// Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'MIT') {
@@ -35,7 +36,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
+// Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license === 'MIT') {
@@ -47,7 +48,7 @@ function renderLicenseSection(license) {
   } else if (license === 'BSD 3') {
     return `A permissive license similar to the BSD 2-Clause License, but with a 3rd clause that prohibits others from using the name of the copyright holder or its contributors to promote derived products without written consent. `;
   } else if (license === 'Mozilla') {
-    return `A permissive license similar to the BSD 2-Clause License, but with a 3rd clause that prohibits others from using the name of the copyright holder or its contributors to promote derived products without written consent. `;
+    return `Permissions of this weak copyleft license are conditioned on making available source code of licensed files and modifications of those files under the same license (or in certain cases, one of the GNU licenses). Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. `;
   } else if (license === 'None') {
     return ``;
   }
@@ -58,7 +59,7 @@ var backTicks = '```';
 function generateMarkdown(data) {
   return `# ${data.title}
 
-by: ${data.name}
+By: ${data.name}
 
 ${data.description}
 
@@ -72,6 +73,7 @@ ${data.description}
 
 ## Installation
 
+Users need to install the following:
 ${backTicks}
 ${data.install}
 ${backTicks}
@@ -84,11 +86,17 @@ ${backTicks}
 
 ## Testing
 
+Users can test this code by: 
+${backTicks}
 ${data.test}
+${backTicks}
 
 ## Contribute
 
+Would you like to contribute to the project?
+${backTicks}
 ${data.contribute}
+${backTicks}
 
 ## Questions
 
@@ -96,7 +104,7 @@ Do you have any questions or concerns? Please contact me at either my GitHub at 
 
 ## License
 
-The licesning for this project is provided by: ${data.license}
+The licensing for this project is provided by: ${data.license}
 
 `;
 }

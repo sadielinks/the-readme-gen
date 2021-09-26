@@ -1,8 +1,8 @@
-# README gen
+# readme
 
-by: Sadie
+By: sadie
 
-make a decent readme with me
+this
 
 ## Table of Contents
 * [Install](#install)
@@ -14,11 +14,13 @@ make a decent readme with me
 
 ## Installation
 
+Users need to install the following:
 ```
-npm i
+that
 ```
 
 ## Usage
+
 
 ```
 like this
@@ -26,17 +28,21 @@ like this
 
 ## Testing
 
+Users can test this code by: 
+```
 like that
+```
 
 ## Contribute
 
-git forking or cloning
+Would you like to contribute to the project?
+git fork clone
 
 ## Questions
 
-Do you have any questions or concerns? Please contact me at either my GitHub at [https://github.com/sadielinks] or email me at [sadiecodes@gmail.com](mailto:sadiecodes@gmail.com)
+Do you have any questions or concerns? Please contact me at either my GitHub at [https://github.com/sdaielinks] or email me at [sadiecodes](mailto:sadiecodes)
 
 ## License
 
-The licesning for this project is provided by: MIT
+The licensing for this project is provided by: MIT
 
