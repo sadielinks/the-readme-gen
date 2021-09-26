@@ -1,5 +1,5 @@
 # README Generator (Bootcamp Assignment 9 - Node.JS)
-___
+
 By: Sadie Sial
 ___
 
@@ -7,15 +7,19 @@ ___
 
 ## Table of Contents
 
-* [User Story]()
-- [Installation]()
-- [Usage and Technologies Used]()
-- [Screenshots]()
-- [Links]()
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Technologies](#technologies)
+* [Screenshots](#screenshots)
+* [Links](#links)
+* [Contact](#contact)
+* [License](#license)
+<br><br>
 
+## Description <br>
 
-
-## User Story
+### User Story:
 
 ```
 AS A developer
@@ -41,7 +45,32 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-## 
+## Installation
+
+Users will need to install the following in their command line:
+```
+npm i
+```
+
+
+## Usage
+
+After the installation process, users will then need to run the following in their command line:
+```
+node index.js
+```
+This will start the generator process for the users. Once they have answered the prompts to the best of their ability, a new file called, "GenREADME.md" will be created in the main folder. They are encouraged to further add to their README's to dress things up as much as the would like!
+<br><br>
+
+
+## Technologies
+
+The technologies used to create this program were: 
+- Javascript
+- JQuery
+- Dynamic HTML
+- Node.JS
+<br><br>
 
 ## Screenshots
 ```
@@ -54,27 +83,25 @@ Second placeholder display
 ```
 ![Screenshot](./assets/images/screenshot2.png)
 
+<br>
 
 ## Links
 
-[Deployed App]()
+- [External Video Link]()
 
+- [GitHub Repository](https://github.com/sadielinks/the-readme-gen)
 
-[GitHub Repository](https://github.com/sadielinks/the-readme-gen)
+<br>
 
-## Technologies Used
-
-- HTML, Javascript, & Node.JS
-
-
-## Contact Information
+## Contact
 
 - [GitHub Profile](https://github.com/sadielinks)
 - [Portfolio](https://sadielinks.github.io/professional-portfolio/)
 - [Email](mailto:sadiecodes@gmail.com)
 
+<br>
 
 ## License
 
-This source code is available to everyone under the standard [MIT license ©](https://choosealicense.com/licenses/mit/) <br>
+This source code is available to everyone under the standard [MIT license ©](https://choosealicense.com/licenses/mit/) <br><br>
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

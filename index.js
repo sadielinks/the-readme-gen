@@ -37,6 +37,11 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'technologies',
+        message: 'What technologies were used for your project?',
+    },
+    {
+        type: 'input',
         name: 'test',
         message: 'How can users test the code?',
     },

@@ -62,6 +62,7 @@ ${renderLicenseBadge(data.license)}
 ## Table of Contents
 * [Install](#install)
 * [Usage](#usage)
+* [Technologies](#technologies)
 * [Testing](#testing)
 * [Contribute](#contribute)
 * [Questions](#questions)
@@ -79,6 +80,10 @@ ${backTicks}
 ${backTicks}
 ${data.use}
 ${backTicks}
+
+## Technologies
+
+${data.technologies} were used to create this project.
 
 ## Testing
 
