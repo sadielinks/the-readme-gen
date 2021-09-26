@@ -55,6 +55,7 @@ function generateMarkdown(data) {
 
 By: ${data.name}
 
+## Description:
 ${data.description}
 
 ${renderLicenseBadge(data.license)}
