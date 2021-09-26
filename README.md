@@ -91,7 +91,7 @@ Generated README.md preview:
 ```
 Walkthrough video:
 ```
-<iframe src="https://drive.google.com/file/d/1aVRDGSy-CTtdiCWUKlI1aoBZFi5iJcm-/preview" width="640" height="480"></iframe>
+<video playsinline="" class="shaka-video" autoplay="" src="blob:https://watch.screencastify.com/ec3701fd-5127-48d8-a9e1-49b32776381f"><!----></video>
 
 
 <br>
