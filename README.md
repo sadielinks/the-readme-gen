@@ -91,6 +91,8 @@ Generated README.md preview:
 ```
 Walkthrough video:
 ```
+https://user-images.githubusercontent.com/87392794/134828727-ea31263e-89fa-49db-bdaf-ec19ebd101dc.mov
+
 
 
 <br>
