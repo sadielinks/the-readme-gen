@@ -1,42 +1,42 @@
-# mad
+# README gen
 
-by: sad
+by: Sadie
 
-sda
+make a decent readme with me
 
 ## Table of Contents
-* [Install](#Install)
-* [Usage](#Usage)
-* [Testing](#Testing)
-* [Contribute](#Contribute)
-* [Questions](#Questions)
+* [Install](#install)
+* [Usage](#usage)
+* [Testing](#testing)
+* [Contribute](#contribute)
+* [Questions](#questions)
 * [License](#license)
 
 ## Installation
 
 ```
-undefined
+npm i
 ```
 
 ## Usage
 
 ```
-asdf
+like this
 ```
 
 ## Testing
 
-asdf
+like that
 
 ## Contribute
 
-asdf
+git forking or cloning
 
 ## Questions
 
-Do you have any questions or concerns? Please contact me either my GitHub at [https://github.com/undefined](https://github.com/undefined) or email me at [asdf](mailto:asdf)
+Do you have any questions or concerns? Please contact me at either my GitHub at [https://github.com/sadielinks] or email me at [sadiecodes@gmail.com](mailto:sadiecodes@gmail.com)
 
 ## License
 
-The licesning for this porject is provided by: MIT
+The licesning for this project is provided by: MIT
 

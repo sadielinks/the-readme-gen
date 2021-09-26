@@ -63,17 +63,17 @@ by: ${data.name}
 ${data.description}
 
 ## Table of Contents
-* [Install](#Install)
-* [Usage](#Usage)
-* [Testing](#Testing)
-* [Contribute](#Contribute)
-* [Questions](#Questions)
+* [Install](#install)
+* [Usage](#usage)
+* [Testing](#testing)
+* [Contribute](#contribute)
+* [Questions](#questions)
 * [License](#license)
 
 ## Installation
 
 ${backTicks}
-${data.installation}
+${data.install}
 ${backTicks}
 
 ## Usage
@@ -92,7 +92,7 @@ ${data.contribute}
 
 ## Questions
 
-Do you have any questions or concerns? Please contact me either my GitHub at [https://github.com/${data.username}](https://github.com/${data.username}) or email me at [${data.email}](mailto:${data.email})
+Do you have any questions or concerns? Please contact me at either my GitHub at [https://github.com/${data.GitHub}] or email me at [${data.email}](mailto:${data.email})
 
 ## License
 
