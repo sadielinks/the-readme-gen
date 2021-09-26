@@ -3,6 +3,8 @@ ___
 By: Sadie Sial
 ___
 
+![mit](https://img.shields.io/badge/license-MIT-brightgreen)
+
 ## Table of Contents
 
 * [User Story]()
@@ -74,5 +76,5 @@ Second placeholder display
 
 ## License
 
-This source code is available to everyone under the standard [MIT License ©](https://github.com/microsoft/vscode/blob/master/LICENSE.txt). <br>
+This source code is available to everyone under the standard [MIT license ©](https://choosealicense.com/licenses/mit/) <br>
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
