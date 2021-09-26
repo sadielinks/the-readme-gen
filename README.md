@@ -89,7 +89,7 @@ Generated README.md preview:
 ![Screenshot](./assets/images/screenshot3.png)
 
 ```
-
+Walkthrough video:
 ```
 ![GIF](./assets/images/screenshot3.png)
 
@@ -98,7 +98,7 @@ Generated README.md preview:
 
 ## Links
 
-- [External Video Link]()
+- [External Video Link](https://watch.screencastify.com/v/2nPAK0kNzjQqtOpGmB7c)
 
 - [GitHub Repository](https://github.com/sadielinks/the-readme-gen)
 
