@@ -29,20 +29,20 @@ SO THAT I can quickly create a professional README for a new project
 
 ```
 GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
+WHEN YOU are prompted for information about your application repository
+THEN a high-quality, professional README.md is generated with the title of your project and sections entitled Description, Table of Contents, Installation, Usage, Technologies, Tests, Contributing, Questions, and License
+WHEN YOU enter your project title
 THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
+WHEN YOU enter a description, installation instructions, usage information, technologies used, test instructions, and contribution guidelines
+THEN this information is added to the sections of the README entitled Description, Table of Contents, Installation, Usage, Technologies, Tests, and Contributing
+WHEN YOU choose a license for your application from a list of options
 THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
+WHEN YOU enter your GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to your GitHub profile
+WHEN YOU enter your email address
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+WHEN YOU click on the links in the Table of Contents
+THEN YOU are taken to the corresponding section of the README
 ```
 
 ## Installation
@@ -59,7 +59,7 @@ After the installation process, users will then need to run the following in the
 ```
 node index.js
 ```
-This will start the generator process for the users. Once they have answered the prompts to the best of their ability, a new file called, "GenREADME.md" will be created in the main folder. They are encouraged to further add to their README's to dress things up as much as the would like!
+This will start the generator process for the users. Once they have answered the prompts to the best of their ability, a new file called, `GenREADME.md` will be created in the main folder. They are encouraged to further add to their README's to dress things up as much as the would like!
 <br><br>
 
 
