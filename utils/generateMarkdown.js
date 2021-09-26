@@ -101,13 +101,13 @@ ${backTicks}
 
 ## Questions
 
-Do you have any questions or concerns? Please contact me at either my GitHub at [https://github.com/${data.GitHub}] or email me at [${data.email}](mailto:${data.email})
+Do you have any questions or concerns? Please contact me at either my GitHub at [${data.GitHub}](https://github.com/${data.GitHub}) or email me at [${data.email}](mailto:${data.email})
 
 ## License
 
 The licensing for this project is provided by: ${renderLicenseLink(data.license)}.
 
-${renderLicenseSection(data.license)}.
+${renderLicenseSection(data.license)}
 
 `;
 }
