@@ -67,8 +67,6 @@ This will start the generator process for the users. Once they have answered the
 
 The technologies used to create this program were: 
 - Javascript
-- JQuery
-- Dynamic HTML
 - Node.JS
 <br><br>
 
