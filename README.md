@@ -19,6 +19,8 @@ ___
 
 ## Description <br>
 
+This is a command-line application that takes the users input and generates a quality README.md document. Users will be walked through the installation process and then guided on how to continue throught their command-line in order to create their new README based off of their selected inputs.
+
 ### User Story:
 
 ```
